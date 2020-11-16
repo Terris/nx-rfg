@@ -27,8 +27,12 @@
   },
   "private": true,
   "dependencies": {
+    "apollo-server-express": "^2.19.0",
     "document-register-element": "1.13.1",
     "express": "4.17.1",
+    "firebase-admin": "^9.4.1",
+    "firebase-functions": "^3.11.0",
+    "graphql": "^15.4.0",
     "react": "16.13.1",
     "react-dom": "16.13.1"
   },
